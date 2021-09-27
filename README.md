@@ -7,7 +7,7 @@ use previous task (chatting website) to add Mobex to it
 
 ## Steps: 
 <br/>
-1- Create a modal and a from to add a doctor
+1- Create a modal 
 <br/>
 2- Generate Slug and Id
 <br/>
